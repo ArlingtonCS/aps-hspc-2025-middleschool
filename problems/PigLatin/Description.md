@@ -18,11 +18,25 @@ The word "avacado" would become "vacadoaay".
 ## Input
 
 A string of pig latin. 
-The string will contain multiple sentences in pig latin, much like the document you are reading right now. 
-Each sentence is separated by a ```.``` followed by a space. Every letter is lowercase except for the first letter of each word.
+The string will contain multiple sentences in pig latin.
+Each sentence is separated by a ```.``` followed by a space.
+Some words may have an uppercase first letter.
 
 ## Output
 
 A string of English sentences. Each sentence should be separated by a ```.``` followed by a space.
 The first letter in every sentence should be capitalized.
+Make sure to maintain capitalization of words with uppercase first letters.
 
+## Example
+
+Input:
+```
+Smay. Eay Mithsay eachestay lasscay noay Arsmay. Eryvay oolcay.
+```
+
+Output:
+
+```
+Ms. E Smith teaches class on Mars. Very cool.
+```
