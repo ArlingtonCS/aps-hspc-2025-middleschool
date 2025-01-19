@@ -36,5 +36,5 @@ red hat
 
 # Sample Output
 
-Alice  Charlie
+Alice Charlie
 No match found.  
