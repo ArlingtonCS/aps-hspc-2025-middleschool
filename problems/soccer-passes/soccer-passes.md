@@ -20,14 +20,14 @@ The input consists of two lines:
 Print the distance between Player A and Player B, rounded to two decimal places.
 
 # Sample Input
-
+```
 3 4  
 7 1  
-
+```
 # Sample Output
-
+```
 5.00
-
+```
 # Explanation
 
 The distance between (3,4) and (7,1) is:

@@ -20,13 +20,16 @@ For each ingredient, output the equivalent quantity in ounces, rounded to 2 deci
 
 # Sample Input
 
+```
 3
 1 cup
 3 tablespoon
 12 teaspoon
+```
 
 # Sample Output
-
+```
 8.00
 1.50
 2.00
+```

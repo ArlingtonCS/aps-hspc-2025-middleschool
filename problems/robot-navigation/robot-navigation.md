@@ -20,14 +20,15 @@ The first line contains the number of instructions. The next lines contain 1 ins
 The output contains one line with the final coordinates of the robot in the format: (x,y)
 
 # Sample Input
-
+```
 5
 UP 3
 RIGHT 4
 DOWN 2
 LEFT 1
 UP 1
-
+```
 # Output
-
+```
 3 2
+```

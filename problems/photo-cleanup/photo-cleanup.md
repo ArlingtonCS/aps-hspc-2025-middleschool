@@ -15,10 +15,11 @@ The second line contains the number of megabytes for each photo.
 The output contains a single line that represents the minimum number of photos deleted such that the the total size of the remaining photos is less than or equal to the storage limit.
 
 # Sample Input
-
+```
 5 100  
 50 40 30 20 10
-
+```
 # Sample Output
-
+```
 1
+```
