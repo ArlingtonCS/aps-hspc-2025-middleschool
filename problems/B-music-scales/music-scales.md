@@ -1,6 +1,6 @@
 # Music Scales
 
-In music, the C major scale has 8 notes: C, D, E, F, G, A, B, and C again. Each note has a position in the scale:
+In music, the C major scale has 8 notes: `C`, `D`, `E`, `F`, `G`, `A`, `B`, and `C` again. Each note has a position in the scale:
 ```
 1 → C
 2 → D
