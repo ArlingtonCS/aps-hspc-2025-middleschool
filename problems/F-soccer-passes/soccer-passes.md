@@ -33,3 +33,4 @@ Print the distance between Player A and Player B, rounded to two decimal places.
 The distance between (3,4) and (7,1) is:
 
 $\sqrt{(7-3)^2+(1-4)^2}$ = $\sqrt{16+9}$ = $\sqrt{25}$ = $5.00$
+\newpage

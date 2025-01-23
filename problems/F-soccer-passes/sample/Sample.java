@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class SoccerPasses {
+public class Sample {
 
     // Function to calculate the distance between two points
     public static double calculateDistance(int x1, int y1, int x2, int y2) {
@@ -9,7 +9,6 @@ public class SoccerPasses {
 
         return answer;
     }
-
 
     // DO NOT MODIFY BELOW HERE
     public static void main(String[] args) {

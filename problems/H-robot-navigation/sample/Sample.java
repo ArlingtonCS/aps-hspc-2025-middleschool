@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-public class RobotNavigator {
+public class Sample {
 
     // Function to calculate the final position
     public static int[] calculateFinalPosition(List<String[]> instructions) {
@@ -10,7 +10,7 @@ public class RobotNavigator {
 
         // WRITE CODE HERE
 
-        return new int[]{x, y};
+        return new int[] {x, y};
     }
 
     // DO DO NOT MODIFY BELOW HERE
@@ -32,7 +32,7 @@ public class RobotNavigator {
 
         // Output the result
         System.out.println(finalPosition[0] + " " + finalPosition[1]);
-        
+
         scanner.close();
     }
 }

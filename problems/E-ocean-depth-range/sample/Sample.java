@@ -2,7 +2,7 @@ import java.util.LinkedHashMap;
 import java.util.Map;
 import java.util.Scanner;
 
-public class OceanDepthRange {
+public class Sample {
 
     public static Map<String, Integer> countOceanZones(int[] depths) {
         // Use LinkedHashMap to maintain the order of the zones
@@ -17,7 +17,6 @@ public class OceanDepthRange {
 
         return zoneCounts;
     }
-
 
     // DO NOT MODIFY BELOW THIS LINE
     public static void main(String[] args) {

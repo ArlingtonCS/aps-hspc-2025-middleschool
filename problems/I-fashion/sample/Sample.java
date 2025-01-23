@@ -1,17 +1,14 @@
 import java.util.Scanner;
 
-public class FashionCombinations {
-    
+public class Sample {
+
     // Function to generate all outfit combinations
     public static void generateOutfits(String[] shirts, String[] pants, String[] shoes) {
         // WRITE CODE HERE
 
         // ADD PRINT STATEMENTS
 
-        
     }
-
-
 
     // DO NOT MODIFY BELOW HERE
     public static void main(String[] args) {

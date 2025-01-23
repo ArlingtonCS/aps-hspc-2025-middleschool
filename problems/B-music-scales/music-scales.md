@@ -30,3 +30,4 @@ The note (capitalized) corresponding to that number in the C Major scale.
 ```
 F
 ```
+\newpage

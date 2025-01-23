@@ -1,11 +1,11 @@
 import java.util.Scanner;
 
-public class MusicScales {
+public class Sample {
     public static String getNoteInScale(int position) {
 
         // WRITE CODE HERE
         String answer = "";
-        
+
         return cMajorScale;
     }
 
@@ -18,7 +18,6 @@ public class MusicScales {
 
         String note = getNoteInScale(position);
         System.out.println(note);
-        
 
         scanner.close();
     }

@@ -37,3 +37,5 @@ The output consists of 1 line for each test case that contains the amount of tim
 ```
 8
 ```
+
+\newpage

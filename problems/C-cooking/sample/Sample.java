@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class CookingConverter {
+public class Sample {
 
     // Function to convert units to ounces
     public static double convertToOunces(double quantity, String unit) {
@@ -8,7 +8,6 @@ public class CookingConverter {
         // WRITE CODE HERE
         return unit;
     }
-
 
     // DO NOT MODIFY BELOW HERE
     public static void main(String[] args) {

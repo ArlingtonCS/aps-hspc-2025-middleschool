@@ -23,3 +23,4 @@ The output contains a single line that represents the minimum number of photos d
 ```
 1
 ```
+\newpage
