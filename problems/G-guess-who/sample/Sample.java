@@ -3,6 +3,15 @@ import java.util.List;
 import java.util.Scanner;
 
 public class Sample {
+    public static List<String> findMysteryGuest(List<String[]> guests, String[] clues) {
+        List<String> matchingGuests = new ArrayList<>();
+
+        // WRITE CODE HERE
+
+        return matchingGuests;
+    }
+
+    // DO NOT MODIFY BELOW THIS POINT
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
@@ -34,15 +43,5 @@ public class Sample {
         }
 
         scanner.close();
-    }
-
-    // DO NOT MODIFY ABOVE HERE
-
-    public static List<String> findMysteryGuest(List<String[]> guests, String[] clues) {
-        List<String> matchingGuests = new ArrayList<>();
-
-        // WRITE CODE HERE
-
-        return matchingGuests;
     }
 }
