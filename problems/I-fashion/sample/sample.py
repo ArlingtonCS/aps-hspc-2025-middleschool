@@ -1,14 +1,8 @@
+# `shirts`, `pants`, and `shoes` are all lists of strings
 def generate_outfits(shirts, pants, shoes):
-    # WRITE CODE HERE
+    # WRITE CODE HERE. Your code should print() the combinations in-order
     
-    # PRINT STUFF HERE
-    
-    
-    return # DELETE THIS IF NEEDED
-
-
-
-
+    return # keep this line - this function returns nothing.
 
 
 # DO NOT MODIFY BELOW HERE
