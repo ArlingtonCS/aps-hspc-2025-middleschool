@@ -1,12 +1,11 @@
+# Set the `answer` variable equal to the proper second word.
+# The variable `word` is a string representing the first word.
 def brainrot_translator(word):
     answer = ""
     
     # WRITE CODE HERE
     
     return answer
-
-
-
 
 
 # DO NOT MODIFY BELOW HERE
