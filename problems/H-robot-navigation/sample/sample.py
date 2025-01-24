@@ -1,17 +1,14 @@
+# `instructions` is a list of tuples of the type: (string, number)
 def calculate_final_position(instructions):
+    x = 0
+    y = 0
+    
     # WRITE CODE HERE
     
-    return None # MODIFY THIS LINE
-
-
-
-
-
-
+    return (x, y)
 
 
 # DO NOT MODIFY BELOW HERE
-# Input Parsing
 n = int(input())
 instructions = []
 
@@ -25,4 +22,4 @@ for _ in range(n):
 final_position = calculate_final_position(instructions)
 
 # Output the result
-print(f"({final_position[0]},{final_position[1]})")
+print(f"{final_position[0]} {final_position[1]}")
