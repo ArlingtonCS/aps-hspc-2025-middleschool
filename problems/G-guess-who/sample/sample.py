@@ -1,6 +1,6 @@
 # Return a string representing the name(s) of the mystery guest (space separated), or "No match found."
 # `number_of_guests` is an integer
-# `guests` is a list of strings of the form "name trait1 trait2"
+# `guests` is a list of 3-item lists of strings
 # `clues` is a 2-item list of strings containing the two traits to search for
 def find_mystery_guest(number_of_guests, guests, clues):
     # WRITE CODE HERE
