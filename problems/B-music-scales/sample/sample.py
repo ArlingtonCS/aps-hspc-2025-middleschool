@@ -1,9 +1,9 @@
+# This function should return a string with one uppercase letter. `position` is a number.
 def get_note_in_scale(position):
     # WRITE CODE HERE
     
-    
-    
     return None # MODIFY THIS LINE
+
 
 # DO NOT MODIFY BELOW HERE
 # Parse the input
