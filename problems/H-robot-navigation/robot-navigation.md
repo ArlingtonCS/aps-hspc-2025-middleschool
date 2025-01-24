@@ -15,7 +15,7 @@ The first line contains the number of instructions. The next lines contain all o
 
 # Output
 
-The output contains one line with the final coordinates of the robot in the format: x y
+The output contains one line with the final coordinates of the robot in the format: `x y`
 
 # Sample Input
 ```
