@@ -1,9 +1,8 @@
 # Guess Who
 
-You are hosting a party, and there's a mystery guest you’re trying to identify! Each guest has a name and exactly three traits. Your job is to write a program that finds the guest who matches both clues.
+You are hosting a party, and there's some mystery guests you’re trying to identify! Each guest has a name and exactly three traits. Your job is to write a program that outputs all of the guests that match both of the given clues.
 
-The goal is to narrow it down to one guest based on the clues provided. If no one or multiple people match, your program should print "No match found"
-
+If no one matches the two clues, your program should print "No match found". If multiple people match the given clues, output each person's name, separated by a space. If only one person matches the clues, simply output their name.
 
 # Input
 
@@ -24,19 +23,21 @@ The output contains a single line with either the name or names of the guests wh
 # Sample Input
 ```
 2
-3  
-Alice blonde tall glasses  
-Bob brown tall hat  
-Charlie blonde short glasses  
-blonde glasses  
-2  
-Diana red tall glasses  
-Eve blue short hat  
-red hat  
+3
+Alice blonde tall glasses
+Bob brown tall hat
+Charlie blonde short glasses
+blonde glasses
+2
+Diana red tall glasses
+Eve blue short hat
+red hat
 ```
+
 # Sample Output
 ```
 Alice Charlie
-No match found.  
+No match found.
 ```
+
 \newpage
