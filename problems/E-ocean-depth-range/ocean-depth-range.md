@@ -20,9 +20,9 @@ The first line of the input is the number of recorded depths you will be given. 
 
 ## Output
 
-For each zone, output the number of times a recorded depth was in that zone. If you were never in that zone, put zero.
+For each zone, output the number of times a recorded depth was in that zone. **If you were never in that zone, put zero.**
 
-Make sure that your output is correctly ordered (starting with the "Sunlight Zone" and ending with "Trenches").
+Make sure that your output is correctly ordered (starting with the "Sunlight Zone" and ending with "Trenches"). The provided sample code handles this for you.
 
 # Sample Input
 ```
