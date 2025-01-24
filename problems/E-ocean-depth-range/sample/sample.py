@@ -1,21 +1,9 @@
 def count_ocean_zones(depths):
+    zone_counts = {"Sunlight Zone": 0, "Twilight Zone": 0, "Midnight Zone": 0, "Abyssal Zone": 0, "Trenches": 0}
+    
     # WRITE CODE HERE
     
-    return None  # modify this line
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+    return zone_counts
 
 
 # DO NOT MODIFY BELOW HERE
